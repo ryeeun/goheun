@@ -1,0 +1,7 @@
+.main {
+    position: relative;
+}
+
+.main-banner, .main-content {
+    width: 100%;
+}

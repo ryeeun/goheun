@@ -1,0 +1,24 @@
+.top-slider-img {
+    width: 100%;
+}
+
+.slick-arrow {
+    display: none !important;
+}
+
+.slick-dots {
+    bottom: 25px;
+}
+
+.slick-dots li {
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.top-slider-dots {
+    width: 8px;
+    height: 8px;
+    color: rgba(255, 255, 255, 0);
+    border: 4px white solid;
+    border-radius: 50%;
+}
