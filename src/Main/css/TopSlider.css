@@ -7,18 +7,18 @@
 }
 
 .slick-dots {
-    bottom: 25px;
+    bottom: 1.2vw;
 }
 
 .slick-dots li {
-    margin-left: 8px;
-    margin-right: 8px;
+    margin-left: 0.5vw;
+    margin-right: 0.5vw;
 }
 
 .top-slider-dots {
-    width: 8px;
-    height: 8px;
+    width: 0.5vw;
+    height: 0.5vw;
     color: rgba(255, 255, 255, 0);
-    border: 4px white solid;
+    border: 0.2vw white solid;
     border-radius: 50%;
 }

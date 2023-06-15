@@ -5,9 +5,9 @@
     right: 0;
     display: flex;
     justify-content: space-between;
-    padding-left: 60px;
-    padding-right: 60px;
-    height: 75px;
+    padding-left: 4vw;
+    padding-right: 4vw;
+    height: 4vw;
     z-index: 999;
     background-color: white;
     font-family: 'Pretendard';
@@ -16,24 +16,25 @@
 .header-logo {
     background-color: white;
     border: none;
-    font-size: 30px;
+    font-size: 1.5vw;
     font-weight: 500;
-    margin-top: 5px;
+    margin-top: 0.3vw;
+    color: black;
 }
 
 .header-menu {
-    margin-top: 25px;
+    margin-top: 1.2vw;
     list-style: none;
     display: flex;
     align-items: center;
 }
 
 .header-menu-item {
-    font-size: 18px;
+    font-size: 1vw;
     font-weight: 500;
-    margin-right: 35px;
+    margin-right: 2vw;
 }
 
 .header-icon {
-    width: 55px;
+    width: 2.4vw;
 }
