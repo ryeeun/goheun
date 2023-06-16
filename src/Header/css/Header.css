@@ -5,8 +5,8 @@
     right: 0;
     display: flex;
     justify-content: space-between;
-    padding-left: 4vw;
-    padding-right: 4vw;
+    padding-left: 5vw;
+    padding-right: 5vw;
     height: 4vw;
     z-index: 999;
     background-color: white;
@@ -27,12 +27,13 @@
     list-style: none;
     display: flex;
     align-items: center;
+    position: relative;
 }
 
 .header-menu-item {
     font-size: 1vw;
     font-weight: 500;
-    margin-right: 2vw;
+    margin-right: 2.2vw;
 }
 
 .header-icon {

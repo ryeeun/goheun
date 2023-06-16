@@ -1,9 +1,10 @@
 import React from "react";
 
-import './Header.css';
+import './css/Header.css';
 import cart from './img/cart.png';
 import heart from './img/heart.png';
 import search from './img/search.png';
+import Menulist from "./components/Menulist";
 
 const Header = () => {
     return(
@@ -11,6 +12,7 @@ const Header = () => {
             <button className="header-logo">TOUN 28</button>
             <ul className="header-menu">
                 <li className="header-menu-item">STORE</li>
+                <Menulist />
                 <li className="header-menu-item">ARCHIVE</li>
                 <li className="header-menu-item">맞춤구독</li>
                 <li className="header-menu-item">톤28미션</li>

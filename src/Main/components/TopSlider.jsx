@@ -5,6 +5,7 @@ import "slick-carousel/slick/slick-theme.css";
 
 import mainSlide1 from '../img/main-slide1.jpg';
 import mainSlide2 from '../img/main-slide2.jpg';
+import mainSlide3 from '../img/main-slide3.jpg';
 import '../css/TopSlider.css';
 
 const TopSlider = () => {
@@ -27,6 +28,7 @@ const TopSlider = () => {
         <Slider {...settings}>
             <img className="top-slider-img" src={mainSlide1} alt="메인슬라이드1" />
             <img className="top-slider-img" src={mainSlide2} alt="메인슬라이드2" />
+            <img className="top-slider-img" src={mainSlide3} alt="메인슬라이드3" />
         </Slider>
     )
 };
