@@ -2,9 +2,9 @@ import React from "react";
 
 import '../css/Menulist.css';
 
-const Menulist = () => {
+const Menulist = ({ isOpen }) => {
     return(
-        <div className="menulist">
+        <div className={isOpen ? "menulist" : "menulist_close"} >
             <ul className="menulist-first">
                 <li>BEST</li>
                 <li>FACE</li>

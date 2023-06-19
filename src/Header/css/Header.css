@@ -5,8 +5,8 @@
     right: 0;
     display: flex;
     justify-content: space-between;
-    padding-left: 5vw;
-    padding-right: 5vw;
+    padding-left: 6vw;
+    padding-right: 4vw;
     height: 4vw;
     z-index: 999;
     background-color: white;
@@ -23,6 +23,7 @@
 }
 
 .header-menu {
+    padding-left: 2vw;
     margin-top: 1.2vw;
     list-style: none;
     display: flex;

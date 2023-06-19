@@ -1,0 +1,53 @@
+.best-seller {
+    margin-left: 7vw;
+}
+
+.best-seller-text {
+    margin-top: 9.5vw;
+    display: flex !important;
+    flex-direction: column;
+    text-align: left;
+    font-family: 'Pretendard';
+    font-weight: 500;
+}
+
+.best-seller-text__bg {
+    font-size: 2vw;
+    margin-bottom: 1.5vw;
+}
+
+.best-seller-text__md {
+    font-size: 1.6vw;
+}
+
+.best-seller-text__sm {
+    margin-top: 4vw;
+    font-size: 1.2vw;
+}
+
+.best-seller-item {
+    display: flex !important;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Pretendard';
+}
+
+.best-seller-item__img {
+    width: 23vw !important;
+}
+
+.best-seller-item-text__bg {
+    font-size: 1vw;
+    font-weight: 500;
+    margin-top: 1.5vw;
+    margin-bottom: 1.5vw;
+}
+
+.best-seller-item-text__sm {
+    font-size: 1vw;
+}
+
+
+.slick-slider {
+
+}

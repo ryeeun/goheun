@@ -1,18 +1,19 @@
-import React from "react";
+import React, { useState } from "react";
 
 import './css/Header.css';
 import cart from './img/cart.png';
 import heart from './img/heart.png';
 import search from './img/search.png';
-import Menulist from "./components/Menulist";
+import Menulist from './components/Menulist';
 
 const Header = () => {
+    const [isOpen, setOpen] = useState(false);
     return(
         <div className="header">
             <button className="header-logo">TOUN 28</button>
-            <ul className="header-menu">
+            <ul className="header-menu" onMouseOver={() => setOpen(true)} onMouseOut={() => setOpen(false)}>
+                <Menulist isOpen={isOpen}/>
                 <li className="header-menu-item">STORE</li>
-                <Menulist />
                 <li className="header-menu-item">ARCHIVE</li>
                 <li className="header-menu-item">맞춤구독</li>
                 <li className="header-menu-item">톤28미션</li>
