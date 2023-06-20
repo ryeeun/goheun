@@ -5,8 +5,8 @@
     right: 0;
     display: flex;
     justify-content: space-between;
-    padding-left: 6vw;
-    padding-right: 4vw;
+    padding-left: 8vw;
+    padding-right: 8vw;
     height: 4vw;
     z-index: 999;
     background-color: white;
