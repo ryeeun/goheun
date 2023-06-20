@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/goheun/static/css/main.c0330ea8.css",
-    "main.js": "/goheun/static/js/main.8adba6b6.js",
+    "main.js": "/goheun/static/js/main.567c6844.js",
     "static/js/787.9642927d.chunk.js": "/goheun/static/js/787.9642927d.chunk.js",
     "static/media/main-slide1.jpg": "/goheun/static/media/main-slide1.f59dd5bd3687b292a284.jpg",
     "static/media/content3.jpg": "/goheun/static/media/content3.d3661696126cdd4b5c28.jpg",
-    "static/media/content1.jpg": "/goheun/static/media/content1.317c1febe802c3beaa51.jpg",
     "static/media/content2.jpg": "/goheun/static/media/content2.4ee4b055a90ee0ffa121.jpg",
     "static/media/banner1.jpg": "/goheun/static/media/banner1.c88879b68824f4a08b26.jpg",
     "static/media/content4.jpg": "/goheun/static/media/content4.0e333ecefd9a6d5c238f.jpg",
     "static/media/main-slide2.jpg": "/goheun/static/media/main-slide2.c0ee96f9404e21462f0e.jpg",
+    "static/media/content1.jpg": "/goheun/static/media/content1.734ddd45a3843bbf0333.jpg",
     "static/media/main-slide3.jpg": "/goheun/static/media/main-slide3.e704982f77d56f389587.jpg",
     "static/media/item1.png": "/goheun/static/media/item1.d8fa21438fdbc557091e.png",
     "static/media/item4.png": "/goheun/static/media/item4.9d4b6fb12d45fa9ad033.png",
@@ -24,11 +24,11 @@
     "static/media/slick.woff": "/goheun/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/goheun/index.html",
     "main.c0330ea8.css.map": "/goheun/static/css/main.c0330ea8.css.map",
-    "main.8adba6b6.js.map": "/goheun/static/js/main.8adba6b6.js.map",
+    "main.567c6844.js.map": "/goheun/static/js/main.567c6844.js.map",
     "787.9642927d.chunk.js.map": "/goheun/static/js/787.9642927d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0330ea8.css",
-    "static/js/main.8adba6b6.js"
+    "static/js/main.567c6844.js"
   ]
 }
